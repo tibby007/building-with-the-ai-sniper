@@ -36,7 +36,7 @@ git clone https://github.com/tibby007/building-with-the-ai-sniper.git
 | Session | Topic | Status |
 |---------|-------|--------|
 | [Session 01](session-01-setup/) | Setup and First Run: Claude Desktop, Cowork, and Code | Available |
-| Session 02 | MCP Servers and Connecting Your Tools | Coming Soon |
+| [Session 02](session-02-mcps/) | MCP Servers and Connecting Your Tools | Available |
 | Session 03 | Building Custom Skills | Coming Soon |
 | Session 04 | Memory Systems and Context Management | Coming Soon |
 | Session 05 | Advanced Workflows and Automation | Coming Soon |
@@ -56,11 +56,3 @@ Quick-reference guides live in the [`guides/`](guides/) folder:
 ## Resources
 
 Check the [`resources/`](resources/) folder for links to official documentation, community resources, and recommended tools.
-
-## About Your Instructor
-
-**Cheryl Tibbs** is the President of Commercial Capital Connect, Chief Strategist at AI Marvels, and CEO of EmergeStack Development Company. She's credentialed by Google and Amazon for AI and Machine Learning, and she builds AI automation systems that actually make money. This course is the same approach she uses across her own businesses: practical, no-fluff, results-first.
-
----
-
-**Questions?** Drop them in the AI Junkies University community. See you in class.
