@@ -6,6 +6,7 @@ Last session we gave Claude a brain. This session we're giving it HANDS. By the 
 
 - **student-guide.md** - Your step-by-step walkthrough for connecting tools to Claude Desktop. Follow this during and after class.
 - **lesson-plan.md** - The full session structure with talking points and timing.
+- **[Session 2 Slide Deck](https://gamma.app/docs/ikcdqb4e20rpv6f)** - The full presentation deck (charcoal + orange, AI Sniper007 branded). View or present directly from Gamma.
 
 ## What You'll Walk Away With
 
