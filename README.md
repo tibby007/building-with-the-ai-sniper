@@ -1,60 +1,58 @@
-IyBCdWlsZGluZyB3aXRoIFRoZSBBSSBTbmlwZXIKCioqQUkgSnVua2llcyBV
-bml2ZXJzaXR5IENvdXJzZSBieSBDaGVyeWwgVGliYnMqKgoKV2VsY29tZSB0
-byB0aGUgb2ZmaWNpYWwgY291cnNlIHJlcG8gZm9yICpCdWlsZGluZyB3aXRo
-IFRoZSBBSSBTbmlwZXIqLiBUaGlzIGlzIHdoZXJlIHdlIGtlZXAgYWxsIHRo
-ZSBzZXNzaW9uIG1hdGVyaWFscywgZ3VpZGVzLCB0ZW1wbGF0ZXMsIGFuZCBy
-ZXNvdXJjZXMgeW91IG5lZWQgdG8gZ28gZnJvbSAiSSBkb3dubG9hZGVkIENs
-YXVkZSIgdG8gIkkgYnVpbHQgc29tZXRoaW5nIHRoYXQgYWN0dWFsbHkgd29y
-a3MgZm9yIG15IGJ1c2luZXNzLiIKCiMjIFdoYXQgVGhpcyBDb3Vyc2UgQ292
-ZXJzCgpXZSdyZSBidWlsZGluZyByZWFsIEFJIHN5c3RlbXMgdXNpbmcgQ2xh
-dWRlIERlc2t0b3AsIENsYXVkZSBDb3dvcmssIGFuZCBDbGF1ZGUgQ29kZS4g
-Tm90IHRoZW9yeS4gTm90IGh5cGUuIEFjdHVhbCBzZXR1cHMgeW91IGNhbiB1
-c2UgdG8gcnVuIHlvdXIgYnVzaW5lc3Mgc21hcnRlciBzdGFydGluZyB0aGUg
-c2FtZSBkYXkgeW91IGxlYXJuIHRoZW0uCgpCeSB0aGUgZW5kIG9mIHRoaXMg
-Y291cnNlLCB5b3Ugd2lsbDoKCi0gSGF2ZSBDbGF1ZGUgRGVza3RvcCBmdWxs
-eSBjb25maWd1cmVkIGFuZCBjdXN0b21pemVkIGZvciBZT1VSIHdvcmtmbG93
-Ci0gVW5kZXJzdGFuZCBob3cgQ293b3JrIG1vZGUgdHVybnMgQ2xhdWRlIGlu
-dG8gYSByZWFsIGFzc2lzdGFudCAobm90IGp1c3QgYSBjaGF0Ym90KQotIEtu
-b3cgaG93IHRvIHNldCB1cCBNQ1Agc2VydmVycyB0byBjb25uZWN0IENsYXVk
-ZSB0byB5b3VyIGFjdHVhbCB0b29scwotIEJ1aWxkIGN1c3RvbSBza2lsbHMg
-dGhhdCBhdXRvbWF0ZSB0aGUgcmVwZXRpdGl2ZSBzdHVmZiB5b3UgaGF0ZSBk
-b2luZwotIENyZWF0ZSBhIG1lbW9yeSBzeXN0ZW0gc28gQ2xhdWRlIHJlbWVt
-YmVycyB5b3VyIGJ1c2luZXNzIGNvbnRleHQKLSBVc2UgQ2xhdWRlIENvZGUg
-Zm9yIHRoZSBtb3JlIHRlY2huaWNhbCBidWlsZHMgKGV2ZW4gaWYgeW91J3Jl
-IG5vdCBhIGRldmVsb3BlcikKCiMjIEhvdyB0byBVc2UgVGhpcyBSZXBvCgoq
-KlN0ZXAgMTogQ2xvbmUgaXQuKioKCmBgYGJhc2gKZ2l0IGNsb25lIGh0dHBz
-Oi8vZ2l0aHViLmNvbS90aWJieTAwNy9idWlsZGluZy13aXRoLXRoZS1haS1z
-bmlwZXIuZ2l0CmBgYAoKKipTdGVwIDI6IFN0YXJ0IHdpdGggeW91ciBjdXJy
-ZW50IHNlc3Npb24gZm9sZGVyLioqIEVhY2ggc2Vzc2lvbiBoYXMgaXRzIG93
-biBkaXJlY3Rvcnkgd2l0aCBhIHN0dWRlbnQgZ3VpZGUgYW5kIGxlc3NvbiBw
-bGFuLgoKKipTdGVwIDM6IENvcHkgdGhlIGBwcm9qZWN0LXRlbXBsYXRlL2Ag
-Zm9sZGVyKiogaW50byB5b3VyIG93biBDbGF1ZGUgc2V0dXAgd2hlbiB5b3Un
-cmUgcmVhZHkgdG8gc3RhcnQgYnVpbGRpbmcuIFRoYXQncyB5b3VyIHN0YXJ0
-ZXIga2l0LgoKKipTdGVwIDQ6IFVzZSB0aGUgYGd1aWRlcy9gIGZvbGRlcioq
-IHdoZW5ldmVyIHlvdSBuZWVkIGEgcmVmZXJlbmNlIGZvciBzZXR1cCwgY29u
-ZmlndXJhdGlvbiwgb3IgY29uY2VwdHMgd2UgY292ZXJlZC4KCiMjIFNlc3Np
-b24gSW5kZXgKCnwgU2Vzc2lvbiB8IFRvcGljIHwgU3RhdHVzIHwKfC0tLS0t
-LS0tLXwtLS0tLS0tfC0tLS0tLS0tfAp8IFtTZXNzaW9uIDAxXShzZXNzaW9u
-LTAxLXNldHVwLykgfCBTZXR1cCBhbmQgRmlyc3QgUnVuOiBDbGF1ZGUgRGVz
-a3RvcCwgQ293b3JrLCBhbmQgQ29kZSB8IEF2YWlsYWJsZSB8CnwgW1Nlc3Np
-b24gMDJdKHNlc3Npb24tMDItbWNwcy8pIHwgTUNQIFNlcnZlcnMgYW5kIENv
-bm5lY3RpbmcgWW91ciBUb29scyB8IEF2YWlsYWJsZSB8CnwgW1Nlc3Npb24g
-MDNdKHNlc3Npb24tMDMtc2tpbGxzLWFnZW50cy8pIHwgU2tpbGxzIGFuZCBB
-Z2VudHM6IEJ1aWxkaW5nIEN1c3RvbSBTa2lsbHMgZm9yIFlvdXIgQUkgfCBB
-dmFpbGFibGUgfAp8IFNlc3Npb24gMDQgfCBNZW1vcnkgU3lzdGVtcyBhbmQg
-Q29udGV4dCBNYW5hZ2VtZW50IHwgQ29taW5nIFNvb24gfAp8IFNlc3Npb24g
-MDUgfCBBZHZhbmNlZCBXb3JrZmxvd3MgYW5kIEF1dG9tYXRpb24gfCBDb21p
-bmcgU29vbiB8CnwgU2Vzc2lvbiAwNiB8IFB1dHRpbmcgSXQgQWxsIFRvZ2V0
-aGVyOiBZb3VyIEFJIENvbW1hbmQgQ2VudGVyIHwgQ29taW5nIFNvb24gfAoK
-IyMgR3VpZGVzIGFuZCBSZWZlcmVuY2VzCgpRdWljay1yZWZlcmVuY2UgZ3Vp
-ZGVzIGxpdmUgaW4gdGhlIFtgZ3VpZGVzL2BdKGd1aWRlcy8pIGZvbGRlcjoK
-Ci0gW0NsYXVkZSBEZXNrdG9wIFNldHVwXShndWlkZXMvY2xhdWRlLWRlc2t0
-b3Atc2V0dXAubWQpCi0gW0NsYXVkZSBDb3dvcmsgU2V0dXBdKGd1aWRlcy9j
-bGF1ZGUtY293b3JrLXNldHVwLm1kKQotIFtDbGF1ZGUgQ29kZSBTZXR1cF0o
-Z3VpZGVzL2NsYXVkZS1jb2RlLXNldHVwLm1kKQotIFtNQ1AgU2VydmVyIEJh
-c2ljc10oZ3VpZGVzL21jcC1zZXJ2ZXItYmFzaWNzLm1kKQotIFtTa2lsbHMg
-RXhwbGFpbmVkXShndWlkZXMvc2tpbGxzLWV4cGxhaW5lZC5tZCkKLSBbTWVt
-b3J5IFN5c3RlbV0oZ3VpZGVzL21lbW9yeS1zeXN0ZW0ubWQpCgojIyBSZXNv
-dXJjZXMKCkNoZWNrIHRoZSBbYHJlc291cmNlcy9gXShyZXNvdXJjZXMvKSBm
-b2xkZXIgZm9yIGxpbmtzIHRvIG9mZmljaWFsIGRvY3VtZW50YXRpb24sIGNv
-bW11bml0eSByZXNvdXJjZXMsIGFuZCByZWNvbW1lbmRlZCB0b29scy4K
+# Building with The AI Sniper
+
+**AI Junkies University Course by Cheryl Tibbs**
+
+Welcome to the official course repo for *Building with The AI Sniper*. This is where we keep all the session materials, guides, templates, and resources you need to go from "I downloaded Claude" to "I built something that actually works for my business."
+
+## What This Course Covers
+
+We're building real AI systems using Claude Desktop, Claude Cowork, and Claude Code. Not theory. Not hype. Actual setups you can use to run your business smarter starting the same day you learn them.
+
+By the end of this course, you will:
+
+- Have Claude Desktop fully configured and customized for YOUR workflow
+- Understand how Cowork mode turns Claude into a real assistant (not just a chatbot)
+- Know how to set up MCP servers to connect Claude to your actual tools
+- Build custom skills that automate the repetitive stuff you hate doing
+- Create a memory system so Claude remembers your business context
+- Use Claude Code for the more technical builds (even if you're not a developer)
+
+## How to Use This Repo
+
+**Step 1: Clone it.**
+
+```bash
+git clone https://github.com/tibby007/building-with-the-ai-sniper.git
+```
+
+**Step 2: Start with your current session folder.** Each session has its own directory with a student guide and lesson plan.
+
+**Step 3: Copy the `project-template/` folder** into your own Claude setup when you're ready to start building. That's your starter kit.
+
+**Step 4: Use the `guides/` folder** whenever you need a reference for setup, configuration, or concepts we covered.
+
+## Session Index
+
+| Session | Topic | Status |
+|---------|-------|--------|
+| [Session 01](session-01-setup/) | Setup and First Run: Claude Desktop, Cowork, and Code | Available |
+| [Session 02](session-02-mcps/) | MCP Servers and Connecting Your Tools | Available |
+| [Session 03](session-03-skills-agents/) | Skills and Agents: Building Custom Skills for Your AI | Available |
+| Session 04 | Memory Systems and Context Management | Coming Soon |
+| Session 05 | Advanced Workflows and Automation | Coming Soon |
+| Session 06 | Putting It All Together: Your AI Command Center | Coming Soon |
+
+## Guides and References
+
+Quick-reference guides live in the [`guides/`](guides/) folder:
+
+- [Claude Desktop Setup](guides/claude-desktop-setup.md)
+- [Claude Cowork Setup](guides/claude-cowork-setup.md)
+- [Claude Code Setup](guides/claude-code-setup.md)
+- [MCP Server Basics](guides/mcp-server-basics.md)
+- [Skills Explained](guides/skills-explained.md)
+- [Memory System](guides/memory-system.md)
+
+## Resources
+
+Check the [`resources/`](resources/) folder for links to official documentation, community resources, and recommended tools.
