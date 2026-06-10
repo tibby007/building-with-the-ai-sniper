@@ -50,8 +50,8 @@ The Gamma presentation for this session will be linked here once published.
 |---------|-------|--------|
 | 1 | Foundation Setup (Claude Desktop + Cowork) | Complete |
 | 2 | MCPs & Connectors (giving Claude "hands") | Complete |
-| 3 | Skills & Agents (teaching Claude what to do) | This session |
-| 4 | Memory & Context (CLAUDE.md, memory banks) | Upcoming |
+| 3 | Skills & Agents (teaching Claude what to do) | Complete |
+| [Session 04](../session-04-memory-context/) | Memory & Context (CLAUDE.md, memory banks) | Complete |
 | 5 | Automation Workflows (n8n, scheduled tasks) | Upcoming |
 | 6 | Putting It All Together (complete AI OS) | Upcoming |
 

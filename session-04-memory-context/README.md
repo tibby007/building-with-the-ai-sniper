@@ -58,7 +58,7 @@ The Gamma slide deck for this session is linked from the AIJU classroom.
 | [Session 01](../session-01-foundation-setup/) | Foundation Setup — Claude Desktop + Cowork |
 | [Session 02](../session-02-mcps-connectors/) | MCPs & Connectors — Giving Claude Hands |
 | [Session 03](../session-03-skills-agents/) | Skills & Agents — Teaching Claude What to Do |
-| **Session 04** | **Memory & Context — Giving Claude a Brain** |
+| [Session 04](../session-04-memory-context/) | Memory & Context — Giving Claude a Brain |
 | Session 05 | Automation Workflows — n8n, Scheduled Tasks, Agent Chains |
 | Session 06 | Putting It All Together — Complete AI OS |
 
