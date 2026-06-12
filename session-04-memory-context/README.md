@@ -36,7 +36,7 @@ Students learn to build their Brain File (CLAUDE.md), understand how the auto-me
 
 ## Slide Deck
 
-The Gamma slide deck for this session is linked from the AIJU classroom.
+The slide deck for this session lives in the AIJU classroom, not in this repo. Log in to [AI Junkies University](https://aijunkiesuniversity.com) and open the Building with The AI Sniper room > Session 04. Slide decks are best viewed alongside the session recording on the course platform.
 
 **Theme:** Canaveral (dark, charcoal + orange, futuristic)
 **Branding:** Building with The AI Sniper / AI Sniper007
