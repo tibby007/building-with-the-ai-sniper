@@ -38,7 +38,7 @@ git clone https://github.com/tibby007/building-with-the-ai-sniper.git
 | [Session 01](session-01-setup/) | Setup and First Run: Claude Desktop, Cowork, and Code | Available |
 | [Session 02](session-02-mcps/) | MCP Servers and Connecting Your Tools | Available |
 | [Session 03](session-03-skills-agents/) | Skills and Agents: Building Custom Skills for Your AI | Available |
-| Session 04 | Memory Systems and Context Management | Coming Soon |
+| [Session 04](session-04-memory-context/) | Memory Systems and Context Management | Available |
 | Session 05 | Advanced Workflows and Automation | Coming Soon |
 | Session 06 | Putting It All Together: Your AI Command Center | Coming Soon |
 
